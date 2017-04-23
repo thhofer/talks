@@ -1,0 +1,23 @@
+include::_settings_reveal.adoc[]
+
+// include::_settings_deck.adoc[]
+
+= CHvote -- towards 2.0
+
+== CHvote -- towards 2.0
+
+Evolution of the electronic voting system of Canton Geneva
+
+@OWASP_Geneva - April 24th 2017
+
+-- by Thomas Hofer
+
+== Bio
+
+* Thomas Hofer
+* Java Dev / AppSec
+* OWASP Geneva, **co-chapter leader**
+
+* State of Geneva
+
+* [@thhofer](https://twitter.com/@thhofer)
